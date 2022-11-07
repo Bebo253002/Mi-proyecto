@@ -1,1 +1,1 @@
-promedio
+control
